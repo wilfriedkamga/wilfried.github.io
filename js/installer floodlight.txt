@@ -1,2 +1,0 @@
-installer floodlight
-git clone git://github.com/floodlight/floodlight.git
